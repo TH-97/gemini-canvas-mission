@@ -95,6 +95,10 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 
 ## 카테고리: 페어 프롬프트 릴레이
 
+## 페어
+
+@eastar-ds
+
 ### 배포 링크
 
 [[우테코 포털 링크]](https://gemini.google.com/share/4a385f8440c2)
