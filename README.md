@@ -101,7 +101,7 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 
 ### 배포 링크
 
-[[우테코 포털 링크]](https://gemini.google.com/share/4a385f8440c2)
+[[우테코 포털 링크]](https://gemini.google.com/share/67880bd86abe)
 
 ### 이 앱을 만든 이유
 
